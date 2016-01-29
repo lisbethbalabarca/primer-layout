@@ -1,0 +1,77 @@
+body{
+	width: 100%;
+}
+.container{
+	border:solid gray 2px;
+	position: relative;
+	width: 750px;
+	height: 1250px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.foto{
+	 float: right;
+    right: 35%;
+    position: relative;
+    margin: 20px;
+    border-radius: 90%;
+    height: 200px;
+    width: 200px;
+}
+h1{
+	position: relative;
+	top: 250px;
+	left: 30%;
+}
+.texto{
+	position: relative;
+	top: 280px;
+	text-align: justify;
+	width: 60%;
+	left: 150px;
+}
+p{
+	font-size: 20px;	
+}
+#body{
+	position: relative;
+	top: 300px; 
+	left: 100px;
+}
+
+.uno{
+	width: 500px;
+	height: 40px;
+	background-color: gray;
+	text-align: left;
+	color: white;
+	line-height: 40px;
+	margin-bottom: 20px;
+}
+.dos{
+	width: 350px;
+	height: 40px;
+	background-color: gray;
+	text-align: left;
+	color: white;
+	line-height: 40px;
+	margin-bottom: 20px;
+}
+.tres{
+	width: 200px;
+	height: 40px;
+	background-color: gray;
+	text-align: left;
+	color: white;
+	line-height: 40px;
+}
+img{
+	height: 150px;
+	width: 200px;
+}
+table{
+	border-collapse: separate;
+	border-spacing: 15px;
+	position: relative;
+	left: -30px;
+}
